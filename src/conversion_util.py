@@ -19,3 +19,5 @@ if __name__ == "__main__":
     print(f"Promedio de notas de muestra: {calcular_promedio(notas)}")
 
 # Registro de optimización de módulo - versión 1.1
+
+# Registro de optimización de módulo - versión 1.2
