@@ -79,3 +79,5 @@ if __name__ == "__main__":
 # Registro de optimización de módulo - versión 5.5
 
 # Registro de optimización de módulo - versión 5.6
+
+# Registro de optimización de módulo - versión 6.1
